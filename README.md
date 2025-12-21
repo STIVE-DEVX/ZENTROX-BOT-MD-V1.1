@@ -144,8 +144,7 @@ https://youtu.be/UxWsyRkfCyA?si=9JMYz0dNPSO53UDt
 🔗 Communauté
 
 Groupe Officiel ZENTROX :
-https://chat.whatsapp.com/Coco4e6F7eF0N4GrQrvB8R
-
+[https://chat.whatsapp.com/D1FPrWYNuCnLYrXAL3s9Cd ]
 Chaîne WhatsApp Officielle :
 https://whatsapp.com/channel/0029Vb6nKuV8vd1M1iBlWe2l
 
