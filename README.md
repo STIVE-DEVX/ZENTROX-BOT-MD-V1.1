@@ -4,16 +4,16 @@
   <p><strong>Bot d'Automatisation Intelligent Multi-Device pour WhatsApp</strong></p>
   
   <p>
-    <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD/stargazers">
-      <img src="https://img.shields.io/github/stars/STIVE-DEVX/ZENTROX-BOT-MD?style=social" alt="Stars">
-    </a>
-    <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD/network/members">
-      <img src="https://img.shields.io/github/forks/STIVE-DEVX/ZENTROX-BOT-MD?style=social" alt="Forks">
-    </a>
-    <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD">
-      <img src="https://img.shields.io/github/repo-size/STIVE-DEVX/ZENTROX-BOT-MD?style=flat-square&color=green" alt="Repo size">
-    </a>
-  </p>
+  <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD-V1.1/stargazers">
+    <img src="https://img.shields.io/github/stars/STIVE-DEVX/ZENTROX-BOT-MD-V1.1?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD-V1.1/forks">
+    <img src="https://img.shields.io/github/forks/STIVE-DEVX/ZENTROX-BOT-MD-V1.1?style=social" alt="Forks">
+  </a>
+  <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD-V1.1">
+    <img src="https://img.shields.io/github/repo-size/STIVE-DEVX/ZENTROX-BOT-MD-V1.1?style=flat-square&color=green" alt="Repo size">
+  </a>
+</p>
 </p>
 
 ---
