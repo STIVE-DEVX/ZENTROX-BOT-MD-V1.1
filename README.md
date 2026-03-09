@@ -1,299 +1,150 @@
-ZENTROX-BOT-MD
-
-Intelligent Automation Bot for Messaging Platforms
-
-![ZENTROX BOT](https://i.postimg.cc/tgn2KMCr/IMG-20251203-WA0102.jpg)
-
-ZENTROX BOT
-
----
-
-🌐 Présentation
-
-ZENTROX MD est un bot d’automatisation intelligent et modulaire, conçu pour améliorer la communication, la gestion de communautés et l’assistance automatisée sur différentes plateformes de messagerie.
-
-Le projet met l’accent sur :
-
-la stabilité
-
-la sécurité
-
-la simplicité de configuration
-
-l’intégration de fonctionnalités basées sur l’intelligence artificielle
-
-
-ZENTROX MD s’adresse aux développeurs, créateurs de communautés et structures souhaitant automatiser certaines tâches de communication de manière flexible et évolutive.
-
-> ZENTROX MD est conçu comme un framework d’automatisation. Les implémentations peuvent varier selon les plateformes et doivent respecter leurs politiques et API officielles.
-
-
-
+<p align="center">
+  <img src="https://i.postimg.cc/tgn2KMCr/IMG-20251203-WA0102.jpg" alt="ZENTROX BOT" width="220"/>
+  <h1>ZENTROX-BOT-MD</h1>
+  <p><strong>Bot d'Automatisation Intelligent Multi-Device pour WhatsApp</strong></p>
+  
+  <p>
+    <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD/stargazers">
+      <img src="https://img.shields.io/github/stars/STIVE-DEVX/ZENTROX-BOT-MD?style=social" alt="Stars">
+    </a>
+    <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD/network/members">
+      <img src="https://img.shields.io/github/forks/STIVE-DEVX/ZENTROX-BOT-MD?style=social" alt="Forks">
+    </a>
+    <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD">
+      <img src="https://img.shields.io/github/repo-size/STIVE-DEVX/ZENTROX-BOT-MD?style=flat-square&color=green" alt="Repo size">
+    </a>
+  </p>
+</p>
 
 ---
 
-🚀 Fonctionnalités clés
+### 🌐 À propos de ZENTROX-BOT-MD
 
-🤖 Automatisation intelligente basée sur l’IA
+**ZENTROX-BOT-MD** est un bot WhatsApp moderne, stable et modulaire construit avec **@whiskeysockets/baileys** (API Multi-Device officielle).
 
-🛡️ Outils de modération et de gestion de groupes
+Il est conçu pour :
 
-👥 Gestion des rôles (administrateurs, utilisateurs)
+- Automatiser la gestion de groupes et de communautés
+- Offrir une assistance intelligente et personnalisée
+- Renforcer la modération et la sécurité
+- Respecter les politiques WhatsApp (utilisation légale de l’API officielle)
 
-💬 Réponses automatiques et assistance conversationnelle
+Parfait pour les créateurs de contenu, administrateurs de communautés, entreprises et développeurs.
 
-🌍 Support multi-langue
-
-⚙️ Configuration flexible et personnalisable
-
-📦 Architecture modulaire et évolutive
-
-
+> **Légal & conforme** : Ce bot utilise exclusivement l’API officielle WhatsApp via Baileys. Aucun risque de ban si vous respectez les règles (pas de spam, pas d’envoi massif abusif).
 
 ---
 
-🔗 Téléchargement du projet
+### 🚀 Fonctionnalités principales
 
-📥 Archive ZIP (version communautaire) :
-👉 https://www.mediafire.com/file/6ofivq4r7am9em5/ZENTROX-BOT-MD-V1.1.zip/file
-
-> Pour les versions officielles, mises à jour et le suivi du projet, veuillez vous référer au dépôt GitHub.
-
-
-
-
----
-
-📌 Fork du dépôt
-
-Cliquez sur le bouton ci-dessous pour forker le dépôt GitHub :
-
-<div align="center">
-  <a href="https://github.com/STIVE-DEVX/ZENTROX-BOT-MD-V1.1/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
-</div>
----
-
-🧱 Architecture du projet
-
-Le projet est structuré pour faciliter la maintenance et l’évolution :
-
-ZENTROX-BOT-MD/
-├── assets/
-├── commands/
-├── data/
-├── lib/
-├── config/
-├── docs/
-├── index.js
-├── main.js
-├── package.json
-└── settings.js
-
-Cette organisation permet une séparation claire entre :
-
-la logique métier
-
-les commandes
-
-les utilitaires
-
-la configuration
-
-
+- 🤖 Automatisation intelligente (réponses IA optionnelles)
+- 🛡️ Modération puissante : anti-spam, anti-lien, anti-arabe, anti-call, welcome/goodbye, mute/unmute...
+- 👥 Gestion avancée des rôles (owner, admin, utilisateur)
+- 💬 Réponses automatiques, commandes personnalisables, mode conversation
+- 🌍 Support multi-langues (français par défaut + extensible)
+- ⚙️ Configuration simple via fichiers JS/JSON
+- 📦 Système de commandes modulaire (ajout/suppression facile)
+- 🔄 Connexion Multi-Device (plus besoin de garder le téléphone allumé après appairage)
 
 ---
 
-⚙️ Installation
+### 🔗 Liens officiels
 
-Prérequis
+**Dépôt GitHub** → https://github.com/STIVE-DEVX/ZENTROX-BOT-MD  
+**Téléchargement ZIP (v1.1)** → https://www.mediafire.com/file/6ofivq4r7am9em5/ZENTROX-BOT-MD-V1.1.zip/file  
+**Groupe WhatsApp communauté** → https://chat.whatsapp.com/IfoWwiBZKfZIzAbornqsQu  
+**Chaîne d’annonces WhatsApp** → https://whatsapp.com/channel/0029Vb6nKuV8vd1M1iBlWe2l
 
-Node.js (version récente recommandée)
+---
 
-npm ou yarn
+### 🛠️ Installation rapide (3 étapes)
 
-Linux, macOS ou Windows
+```bash
+# 1. Cloner le dépôt
+git clone https://github.com/STIVE-DEVX/ZENTROX-BOT-MD.git
 
+# 2. Entrer dans le dossier
+cd ZENTROX-BOT-MD
 
-Étapes
-
-git clone https://github.com/STIVE-DEVX/ZENTROX-BOT-MD-V1.1.git
-cd ZENTROX-BOT-MD-V1.1
+# 3. Installer les dépendances
 npm install
-
-
----
-
-🔧 Configuration
-
-Avant de lancer le projet, configurez :
-
-settings.js
-
-index.js
-
-
-Ajoutez le numéro propriétaire :
-
-global.owner = ["237XXXXXXXX"];
-
-Formats acceptés :
-237XXXXXXXX ou 33XXXXXXXXX
-
+```
 
 ---
 
-▶️ Lancement
+### ⚙️ Configuration (obligatoire)
 
+Ouvre le fichier `settings.js` et modifie au minimum ces lignes :
+
+```javascript
+global.owner = ["237XXXXXXXXXX"];          // ← Ton numéro (avec code pays, sans +)
+global.ownerName = "Ton Nom / Pseudo";
+global.botName = "ZENTROX-BOT";
+global.prefix = ".";                        // ou "!" ou "/" ou ce que tu veux
+```
+
+Optionnel : configure aussi le nom du bot, le menu, les messages de bienvenue, etc.
+
+---
+
+### ▶️ Lancement
+
+```bash
 node index.js
+# ou
+npm start
+```
 
-Une fois lancé, le bot fonctionne selon la configuration définie.
-
-
----
-
-☁️ Déploiement
-
-ZENTROX MD peut être déployé sur :
-
-serveurs VPS
-
-services de cloud hosting
-
-environnements auto-hébergés
-
-
-Le projet est conçu pour être portable et adaptable à différents environnements techniques.
-
+→ Scanne le QR code (ou utilise le code de pairing si disponible)
 
 ---
 
-⚡ Options de déploiement assisté
+### ☁️ Déploiement 24/7 (recommandé)
 
-1️⃣ Via Dashboard d’hébergement
-
-bot-hosting-net :
-👉 https://bot-hosting.net/?aff=1370080417126027337
-
-Ajout du projet
-
-Upload du ZIP ou connexion GitHub
-
-Installation des dépendances
-
-Démarrage du service
-
-
-2️⃣ Via Katabump
-
-Katabump Dashboard :
-👉 https://dashboard.katabump.com/auth/login#4191ad
-
-Import du projet
-
-Configuration de l’environnement
-
-Démarrage du serveur
-
-
+| Plateforme          | Lien d’inscription / dashboard                          | Difficulté |
+|---------------------|----------------------------------------------------------|------------|
+| Bot-Hosting.net     | https://bot-hosting.net/?aff=1370080417126027337         | ★☆☆☆☆      |
+| Katabump            | https://dashboard.katabump.com/auth/login#4191ad         | ★☆☆☆☆      |
+| Railway.app         | Importer depuis GitHub                                   | ★★☆☆☆      |
+| Render.com          | Importer depuis GitHub                                   | ★★☆☆☆      |
+| VPS Linux (PM2)     | Installation manuelle avec pm2                           | ★★★☆☆      |
+| Termux              | Possible mais déconseillé pour du 24/7                   | ★★★★☆      |
 
 ---
 
-💻 Déploiement local (Termux)
+### 📚 Ressources & Tutoriels
 
-git clone https://github.com/STIVE-DEVX/ZENTROX-BOT-MD-V1.1.git
-cd ZENTROX-BOT-MD-V1.1
-npm install
-node index.js
-
+- Documentation → dossier `/docs`
+- Vidéo : Créer un hébergement rapide → https://youtu.be/f0GUNqHf1Eo
+- Vidéo : Déploiement complet ZENTROX → https://youtu.be/Lwlw--RoGXM
 
 ---
 
-📚 Documentation
+### 🤝 Contribuer
 
-Une documentation complémentaire est disponible dans le dossier docs/ :
+Les contributions sont les bienvenues !
 
-Guide d’utilisation
-
-Sécurité & bonnes pratiques
-
-Politique de confidentialité
-
-Conditions d’utilisation
-
-
+1. Fork le projet
+2. Crée une branche (`git checkout -b feature/nouvelle-commande`)
+3. Commit tes changements
+4. Push ta branche
+5. Ouvre une **Pull Request**
 
 ---
 
-📌 Tutoriels
+### 📜 Licence & Avertissement
 
-🎥 Création d’un environnement d’hébergement
-https://youtu.be/0ad7NolEOfk
+Distribué sous licence **MIT** (voir fichier `LICENSE`).
 
-🎥 Déploiement de ZENTROX MD sur une plateforme de messagerie
-https://youtu.be/UxWsyRkfCyA
-
+**Responsabilité** : L’utilisation abusive (spam, pub massive, harcèlement…) peut entraîner un bannissement par WhatsApp. Le développeur décline toute responsabilité en cas de mauvais usage.
 
 ---
 
-🔗 Communauté
+Développé avec ❤️ par **STIVO TECH**  
+📧 techstivo@gmail.com  
+Telegram : @techdevform 
 
-Groupe communautaire :
-https://chat.whatsapp.com/I9UVxdRVs8EEy3L6YlEHus
+**Merci de laisser une ⭐ si le projet t’est utile !** ⭐
+```
 
-Chaîne d’annonces :
-https://whatsapp.com/channel/0029Vb6nKuV8vd1M1iBlWe2l
-
-
-
----
-
-🤝 Contribution
-
-Les contributions sont les bienvenues :
-
-1. Fork du projet
-
-
-2. Création d’une branche
-
-
-3. Commit clair et documenté
-
-
-4. Pull Request
-
-
-
-Merci de respecter les bonnes pratiques et la vision du projet.
-
-
----
-
-🧑‍💻 Auteur & Contact
-
-Développé par : STIVO TECH
-
-📧 Email : techstivo@gmail.com
-💬 Telegram : @STIVODEVX
-
-
----
-
-📜 Licence & responsabilité
-
-Ce projet est distribué sous licence open-source (voir fichier LICENSE).
-
-> Le projet est fourni tel quel. Les utilisateurs sont responsables du respect des conditions d’utilisation et des politiques des plateformes sur lesquelles ils déploient ZENTROX MD.
-
-
-
-
----
-
-⭐ Soutien
-
-Si ce projet vous est utile, pensez à lui attribuer une étoile ⭐ sur GitHub.
-Votre soutien contribue à son évolution et à sa pérennité.
-
+Bonne continuation avec ZENTROX-BOT-MD ! 🚀
